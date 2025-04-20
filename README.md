@@ -36,8 +36,24 @@ I love watching sci-fi movies, listening to podcasts, and planning things *way* 
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-Nitesh%20Kr%20Singh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
-[![Instagram](https://img.shields.io/badge/-nitesh.codes-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/your-instagram-id)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-id)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-id)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/NiteshKrSingh)
+- 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+- 📷 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/your-instagram-id)
+- 💻 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-id)
+- 💚 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-id)
+- 🐱 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/NiteshKrSingh)
+
+---
+
+## 📊 GitHub Stats & Activity:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiteshKrSingh&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshKrSingh&theme=react&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKrSingh&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+---
+
