@@ -51,31 +51,3 @@ I love watching sci-fi movies, listening to podcasts, and planning things *way* 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nitesh_kr_67)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ABHI-RAJ-9053)
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiteshKrSingh&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiteshKrSingh&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshKrSingh&theme=react&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKrSingh&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NiteshKrSingh&label=Profile%20views&color=0e75b6&style=flat" alt="NiteshKrSingh" />
-</p>
